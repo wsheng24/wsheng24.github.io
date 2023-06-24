@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wei Sheng"
-  avatar           : "profile.png"
+  avatar           : "bio-uw.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "98105, Seattle, WA"
   employer         :
@@ -219,14 +219,14 @@ defaults:
       share: true
       comments: true
   # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
