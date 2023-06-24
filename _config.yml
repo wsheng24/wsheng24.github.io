@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Wei Sheng"
-  avatar           : "bio-uw.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "bio-stairway.jpg"
+  bio              : "Actively seeking a Research / SWE intern position"
   location         : "98105, Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/weisheng0220"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
