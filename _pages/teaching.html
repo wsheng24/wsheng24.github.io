@@ -14,7 +14,12 @@ author_profile: true
 
 {% for post in site.teaching %}
   {% if post.path == '_teaching/2023-winter-teaching.md' %}
-    <!-- {% include archive-single.html %} -->
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- {% for post in site.teaching %}
+  {% if post.path == '_teaching/2023-winter-teaching.md' %}
     <a href="https://courses.cs.washington.edu/courses/cse481v/23wi/" style="color: blue; font-size: larger;">CSE481V: VR Capstone</a>
     
     <p>
@@ -25,4 +30,4 @@ author_profile: true
       design cool experiences in AR/VR.
     </p>
   {% endif %}
-{% endfor %}
+{% endfor %} -->
