@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home | Wei"
+title                    : "Wei Sheng"
 title_separator          : "-"
 name                     : &name "Wei Sheng"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Sheng"
+  name             : "Wei Sheng 盛为"
   avatar           : "bio-fountain.jpg"
-  bio              : "Actively seeking a Research / SWE intern position"
+  bio              : "Second year Ph.D. in CS department at Purdue.<br>Actively seeking a Research / SWE intern position."
   location         : "98105, Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

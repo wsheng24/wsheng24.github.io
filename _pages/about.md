@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Wei Sheng, currently a first-year Ph.D. student at [Purdue University](https://www.purdue.edu/) studying Computer Science under [Professor Xavier Tricoche](https://www.cs.purdue.edu/homes/xmt/index.html). My research interests include computer vision, augmented reality/virtual reality, artificial intelligence, and machine learning. 
+I'm currently a second-year Ph.D. student at [Purdue University](https://www.purdue.edu/), studying Computer Science under [Professor Xavier Tricoche](https://www.cs.purdue.edu/homes/xmt/index.html). My research interests include computer vision, graphics, augmented reality/virtual reality, and machine learning. 
 
-📢 <span style="color: red">I'm looking for positions in industrial research for the coming year (2024)</span>. Please contact me if you have any opportunities!
+📢 <span style="color: red">I'm looking for positions in industrial research for the coming year (2025)</span>. Please contact me if you have any opportunities!
 
 
 Before entering PU CS, I completed my undergraduate studies at the [University of Washington](http://www.washington.edu/). There, I double majored in Computer Science from [Paul G. Allen School](https://www.cs.washington.edu/) and Mathematics, gaining a good foundation in both fields. Please see my curriculum vitae for additional information. 

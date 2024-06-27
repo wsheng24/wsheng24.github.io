@@ -12,7 +12,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-{% for post in site.teaching %}
+{% assign sorted_posts = site.teaching | sort: 'date' | reverse %}
+
+{% for post in sorted_posts %}
+  {% if post.path == '_teaching/2024-spring-teaching.md' %}
+    {% include archive-single.html %}
+  {% endif %}
+  {% if post.path == '_teaching/2023-fall-teaching.md' %}
+    {% include archive-single.html %}
+  {% endif %}
   {% if post.path == '_teaching/2023-winter-teaching.md' %}
     {% include archive-single.html %}
   {% endif %}

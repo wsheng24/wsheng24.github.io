@@ -1,5 +1,5 @@
 ---
-title: "CSE481V: VR Capstone"
+title: "CSE 481V: VR Capstone"
 collection: teaching
 type: "Undergraduate Capstone course"
 permalink: /teaching/2023-winter-teaching
