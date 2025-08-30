@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Wei Sheng 盛为"
-  avatar           : "bio-fountain.jpg"
-  bio              : "Second year Ph.D. in CS department at Purdue.<br>Actively seeking a Research / SWE intern position."
-  location         : "98105, Seattle, WA"
+  avatar           : "bio-beach.jpg"
+  bio              : "Third year Ph.D. in CS department at Purdue.<br>Actively seeking a Research / SWE intern position."
+  location         : "98008, Bellevue, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
