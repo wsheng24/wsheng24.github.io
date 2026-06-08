@@ -11,7 +11,7 @@ redirect_from:
 
 Redirecting...
 
-<meta http-equiv="refresh" content="0; url=/files/Sheng's Resume(PhD).pdf">
+<meta http-equiv="refresh" content="0; url=/files/Wei's Resume.pdf">
 
 <!-- Education
 ======

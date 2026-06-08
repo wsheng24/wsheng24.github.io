@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a third-year Ph.D. student at [Purdue University](https://www.purdue.edu/), studying Computer Science under [Professor Xavier Tricoche](https://www.cs.purdue.edu/homes/xmt/index.html) and [Professor Rohan Paleja](https://www.rohanpaleja.com/). My research interests include computer vision, machine learning, reinforcement learning, multi-agent systems, human–AI collaboration, and scientific visualization. I am particularly interested in applying these methods to VR/AR environments, explainable AI in robotics, and large-scale scientific data reconstruction.
+I'm currently a 4th-year Ph.D. student in the Department of Computer Science at [Purdue University](https://www.purdue.edu/), advised by [Professor Rohan Paleja](https://www.rohanpaleja.com/), and a member of the Strategies for Collaboration, Autonomy, Learning, and Exploration in (SCALE) Robotics Lab. My research focuses on human–AI collaboration and cooperative multi-agent reinforcement learning, with the goal of enabling learning-based agents to coordinate effectively with humans and other agents in complex, dynamic environments. I am particularly interested in human-machine teaming, zero-shot coordination, explainable AI in robotics, and interactive AI systems.
 
-📢 <span style="color: red">I'm looking for positions in industrial research for the coming year (2026)</span>. Please contact me if you have any opportunities!
+
+📢 <span style="color: red">I'm looking for Machine Learning and industrial research positions for the coming year (2027)</span>. Please contact me if you have any opportunities!
 
 
 Before entering PU CS, I completed my undergraduate studies at the [University of Washington](http://www.washington.edu/). There, I double majored in Computer Science from [Paul G. Allen School](https://www.cs.washington.edu/) and Mathematics, gaining a good foundation in both fields. Please see my curriculum vitae for additional information. 

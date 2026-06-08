@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching
 venue: "Purdue University, Computer Science"
 date: 2023-08-21
+display_date: "2023-2026"
 location: "West Lafayette, IN"
 ---
 

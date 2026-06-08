@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wei Sheng 盛为"
   avatar           : "bio-beach.jpg"
-  bio              : "Third year Ph.D. in CS department at Purdue.<br>Actively seeking a Research / SWE intern position."
+  bio              : "4th year Ph.D. in CS department at Purdue.<br>Actively seeking a Research / ML intern position."
   location         : "98008, Bellevue, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "shengw@purdue.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-UI7TWYAAAAJ"
+  email            : "wshenguw@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@wshenguw"
   vine             :
   weibo            :
   xing             :
